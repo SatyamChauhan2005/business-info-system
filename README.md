@@ -1,104 +1,170 @@
 🚀 Business Information System (BIS)
 
-A centralized Business Information System (BIS) designed to manage factory operations, streamline workflows, and deliver real-time insights through interactive dashboards.
+A modern Business Information System Dashboard designed to manage operations, track tasks, monitor production, and integrate with Google Sheets in real-time.
 
-«💡 This project simulates a real-world enterprise operations system used in manufacturing and business environments.»
-
----
-
-🌐 Live Demo
-
-👉 https://satyamchauhan2005.github.io/business-info-system/
+🔗 Live Demo: (Add your GitHub Pages link here)
 
 ---
 
 📌 Overview
 
-The BIS platform integrates multiple operational modules into one unified system:
+This project is a centralized operations dashboard that helps businesses manage:
 
-- 📦 Order to Delivery Tracking
-- 🏭 Production Monitoring
-- ✅ Task & Delegation Management
-- 📊 KPI & Analytics Dashboards
-- 📁 CRM & Operational Tracking
+- 📦 Order to Delivery tracking
+- 🏭 Production monitoring
+- ✅ Task & checklist management
+- 📈 Operational tracking sheets
+- 🎁 Employee benefits portal
+
+Built with a clean UI and real-world workflow design, this project simulates a complete internal business system.
 
 ---
 
-✨ Key Features
+✨ Features
 
-- 🔹 Order Management Dashboard
-  Track order lifecycle, delays, and delivery timelines
+🔐 Authentication (UI Based)
 
-- 🔹 Production Dashboard
-  Monitor factory output, KPIs, and performance
+- Login & Register system
+- Mobile OTP verification (UI simulation)
+- Password strength indicator
 
-- 🔹 Delegation System
-  Assign and track team tasks efficiently
+«⚠️ Note: Authentication is frontend-based (for demo purposes only)»
 
-- 🔹 Checklist Management
-  Manage daily tasks, overdue work, and priorities
+---
 
-- 🔹 Tracking Sheets Integration
-  
-  - CRM Tracking
-  - Payroll/Wages
-  - Inward/Outward Logs
+📊 Dashboard
 
-- 🔹 Analytics Integration
-  Embedded dashboards using Looker Studio
+- Personalized welcome screen
+- System status indicators
+- Quick access portals
+- Activity tracking section
+
+---
+
+🏭 FMS (Factory Management System)
+
+- Order to Delivery dashboard
+- Production dashboard (configurable)
+- Real-time tracking (via Google Sheets)
+
+---
+
+✅ Ultimate Checklist
+
+- Task tracking (Pending / Done / Overdue)
+- Filters & search
+- Add new tasks
+- Delegation system
+
+---
+
+🤝 Delegation System
+
+- Assign tasks to team members
+- Set priorities & deadlines
+- Sync with Google Sheets
+
+---
+
+📈 Tracking Sheets Integration
+
+- CRM tracking
+- EA logs
+- Payroll & wages
+- Inward/Outward records
+
+---
+
+🎁 Benefits Portal
+
+- Employee benefits overview
+- HR policy quick links
 
 ---
 
 🛠️ Tech Stack
 
 - Frontend: HTML, CSS, JavaScript
-- Visualization: Looker Studio
-- Data Source: Google Sheets
+- Design: Custom CSS (Glass UI + Modern Dashboard)
+- Data Integration: Google Sheets + Apps Script
 - Hosting: GitHub Pages
 
 ---
 
-📸 Screenshots
+⚙️ Setup Instructions
 
-Add screenshots of your dashboard here
+1. Clone the Repository
 
----
+git clone https://github.com/your-username/your-repo-name.git
 
-🎯 Project Highlights
+2. Open Project
 
-- ✅ Real-world business use case
-- ✅ Clean & modern dashboard UI
-- ✅ Data-driven decision support system
-- ✅ Integration with live data sources
+cd your-repo-name
+open index.html
 
 ---
 
-📈 Skills Demonstrated
+3. Connect Google Sheets (Optional)
 
-- Data Visualization
-- Dashboard Development
-- Business Analysis
-- Workflow Optimization
-- System Design Thinking
+1. Open Google Sheets
 
----
+2. Go to Extensions → Apps Script
 
-🔮 Future Improvements
+3. Paste your Apps Script code
 
-- 🔐 User Authentication System
-- 🗄️ Backend Integration (Database)
-- 📱 Mobile Responsive Design
-- 📊 Advanced Analytics & Reporting
+4. Deploy as Web App
+   
+   - Execute as: Me
+   - Access: Anyone
+
+5. Replace Web App URL in project
 
 ---
 
-👨‍💻 Author
+⚠️ Important Notes
+
+- This project is for demonstration & portfolio purposes
+- Authentication is not secure (no backend)
+- Avoid exposing sensitive Google Sheet links in public repositories
+
+---
+
+📁 Project Structure
+
+/project
+│── index.html
+│── /assets
+│── /css
+│── /js
+
+---
+
+🚀 Future Improvements
+
+- Backend authentication (Firebase / Node.js)
+- Role-based access control
+- Real-time charts (Chart.js / Power BI embed)
+- Mobile responsiveness improvements
+
+---
+
+🙌 Author
 
 Satyam Chauhan
-Aspiring Data Analyst | Dashboard Developer
+Aspiring Data Analyst / Business Analyst
+
+- 💼 LinkedIn: (Add your link)
+- 📂 GitHub: (Add your profile link)
 
 ---
 
 ⭐ Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
+If you like this project:
+
+👉 Give it a ⭐ on GitHub
+👉 Share it on LinkedIn
+
+---
+
+🔥 This project showcases real-world business system design and dashboard thinking.
