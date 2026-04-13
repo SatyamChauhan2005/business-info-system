@@ -4,6 +4,16 @@ A modern Business Information System Dashboard designed to manage operations, tr
 
 🔗 Live Demo: [(https://satyamchauhan2005.github.io/business-info-system/)]
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](assets/screenshots/login.jpg)
+
+### 📊 Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+
+### 📈 Tracking Sheets
+![Tracking](assets/screenshots/tracking.png)
 ---
 
 📌 Overview
