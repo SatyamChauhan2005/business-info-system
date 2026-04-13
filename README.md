@@ -12,7 +12,7 @@ A modern Business Information System Dashboard designed to manage operations, tr
 ![Home Page](https://github.com/SatyamChauhan2005/business-info-system/blob/main/home%20page.jpg)
 
 ### 📈 Tracking Sheets
-![Tracking](assets/screenshots/tracking.png)
+![Tracking](https://github.com/SatyamChauhan2005/business-info-system/blob/main/tracking%20sheets.jpg)
 ---
 
 📌 Overview
