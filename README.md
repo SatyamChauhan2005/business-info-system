@@ -165,14 +165,29 @@ open index.html
 - Mobile responsiveness improvements
 
 ---
+## 📚 Learnings
 
+- Handling real-time data with Google Apps Script
+- Designing scalable dashboard UI
+- Managing multi-page navigation in a single-page app
+- Debugging API and fetch-related issues
+
+- 
+## 🛠️ Tech Stack
+
+- Frontend: HTML5, CSS3, JavaScript (Vanilla JS)
+- UI Design: Custom Dashboard UI (Glassmorphism + Modern Layout)
+- Integration: Google Sheets API (via Apps Script)
+- Deployment: GitHub Pages
+
+- 
 🙌 Author
 
 Satyam Chauhan
 Aspiring Data Analyst / Business Analyst
 
-- 💼 LinkedIn: (Add your link)
-- 📂 GitHub: (Add your profile link)
+- 💼 LinkedIn: ([LinkedIn](https://www.linkedin.com/in/satyamchauhan2005)
+- 📂 GitHub: ([Portfolio](https://satyamchauhan2005.github.io/Portfolio/))
 
 ---
 
