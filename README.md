@@ -3,7 +3,14 @@
 A modern Business Information System (BIS) dashboard designed to centralize business operations including task management, production tracking, and real-time data monitoring using Google Sheets integration.
 
 This project simulates a real-world internal company system used by operations teams, managers, and analysts.
+## 💡 Why This Project?
 
+This project demonstrates:
+- Real-world business workflow understanding
+- Dashboard design thinking
+- Data tracking & operational analytics
+- Integration with external data sources (Google Sheets)
+- 
 🔗 Live Demo: [(https://satyamchauhan2005.github.io/business-info-system/)]
 
 ## 📸 Screenshots
