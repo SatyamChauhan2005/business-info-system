@@ -7,8 +7,7 @@ A modern Business Information System Dashboard designed to manage operations, tr
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](assets/screenshots/login.jpg)
-
+![Login](https://github.com/SatyamChauhan2005/business-info-system/blob/main/login.jpg)
 ### 📊 Dashboard
 ![Dashboard](assets/screenshots/dashboard.png)
 
