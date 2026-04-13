@@ -1,6 +1,8 @@
 🚀 Business Information System (BIS)
 
-A modern Business Information System Dashboard designed to manage operations, track tasks, monitor production, and integrate with Google Sheets in real-time.
+A modern Business Information System (BIS) dashboard designed to centralize business operations including task management, production tracking, and real-time data monitoring using Google Sheets integration.
+
+This project simulates a real-world internal company system used by operations teams, managers, and analysts.
 
 🔗 Live Demo: [(https://satyamchauhan2005.github.io/business-info-system/)]
 
