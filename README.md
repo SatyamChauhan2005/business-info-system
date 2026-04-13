@@ -2,7 +2,7 @@
 
 A modern Business Information System Dashboard designed to manage operations, track tasks, monitor production, and integrate with Google Sheets in real-time.
 
-🔗 Live Demo: [(https://github.com/SatyamChauhan2005/business-info-system/blob/main/index.html)]
+🔗 Live Demo: [(https://satyamchauhan2005.github.io/business-info-system/)]
 
 ---
 
