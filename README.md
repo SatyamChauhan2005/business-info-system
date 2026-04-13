@@ -1,4 +1,7 @@
 🚀 Business Information System (BIS)
+ 
+🔗 Live Demo: [(https://satyamchauhan2005.github.io/business-info-system/)]
+
 
 A modern Business Information System (BIS) dashboard designed to centralize business operations including task management, production tracking, and real-time data monitoring using Google Sheets integration.
 
@@ -11,7 +14,6 @@ This project demonstrates:
 - Data tracking & operational analytics
 - Integration with external data sources (Google Sheets)
 - 
-🔗 Live Demo: [(https://satyamchauhan2005.github.io/business-info-system/)]
 
 ## 📸 Screenshots
 
