@@ -17,11 +17,11 @@ This project demonstrates:
 
 ## 📸 Screenshots
 
-### 🔐 Login Page
+🔐 Secure Login System
 ![Login](https://github.com/SatyamChauhan2005/business-info-system/blob/main/login.jpg)
 ### 📊 Dashboard
 
-![Dashboard](https://github.com/SatyamChauhan2005/business-info-system/blob/main/Dashbard.png)
+![Dashboard Preview](https://github.com/SatyamChauhan2005/business-info-system/blob/main/Dashbard.png)
 
 ### 📊 Home Page 
 ![Home Page](https://github.com/SatyamChauhan2005/business-info-system/blob/main/home%20page.jpg)
